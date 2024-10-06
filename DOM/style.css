@@ -1,0 +1,19 @@
+#bulb{
+    color: red;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+.c{
+    height: 240px;
+    width: 240px;
+    background-color: #000;
+    border-radius: 50%;
+    margin: 100px;
+}
+button{
+    padding:10px;
+    font-size:20px;
+    margin: 30px;
+}
